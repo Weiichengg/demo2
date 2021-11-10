@@ -12,4 +12,4 @@ flask run
 
 python -m pip freeze > requirements.txt
 
-HELLO WQEicheng thank you :)
+HELLO WQEicheng thank you :)\
